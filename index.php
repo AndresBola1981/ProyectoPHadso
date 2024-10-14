@@ -5,6 +5,7 @@ incluirTemplate('header', $inicio = 1);
 ?>
 
 
+
 <div class="parte1">
     <img src="includes/img/logo sp1.png" alt="Logo Software Con Propiedad" class="p1__img-logo">
 </div>
